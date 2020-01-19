@@ -8,4 +8,4 @@ Click no link para ser redirecionado [http://localhost:3000](http://localhost:30
 
 ## Contribuintes
 
-[https://github.com/paulohnmatos](Paulo)
+[Paulo Henrique](https://github.com/paulohnmatos)
