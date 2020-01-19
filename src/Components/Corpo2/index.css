@@ -1,0 +1,19 @@
+#regras{
+    background: url(../../Assets/img/background_2.jpg);
+}
+
+#regras div{
+    padding: 50px 10%;
+    background-color: rgba(0,0,0,.1);
+}
+
+#regras p span{
+    font-weight: 600;
+}
+
+#regras p{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    margin: 20px 0;
+}
