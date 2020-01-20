@@ -10,7 +10,7 @@ function RodaPe(){
             <p>
                 <span>{now.getFullYear()}</span> &nbsp;
                 <span>&copy;</span> &nbsp;
-                <span>ty4me.com</span>
+                <span>ty4me.com.br</span>
             </p>
         </footer>
     );

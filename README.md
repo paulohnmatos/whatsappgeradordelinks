@@ -4,7 +4,7 @@ Uma solução simples e eficiente para gerar links para conversas do whatsapp.
 
 ## Ir para o site
 
-Click no link para ser redirecionado [http://localhost:3000](http://localhost:3000)
+Click no link para ser redirecionado [ty4me.com.br](ty4me.com.br)
 
 ## Contribuintes
 
